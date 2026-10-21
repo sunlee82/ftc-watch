@@ -1,0 +1,78 @@
+[
+ {
+  "id": "2026-09-ai-ad-substantiation",
+  "title": "AI 기술 활용 제품 광고 실증책임 강화 고시",
+  "topics": [
+   "advertising"
+  ],
+  "visibility": "private",
+  "sources": [
+   "raw/report/2026-10_국정감사_주요업무현황.pdf"
+  ],
+  "tags": [],
+  "statute": "표시광고법",
+  "stage": "effective",
+  "effective_date": "2026-09-01",
+  "agenda": [],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# AI 기술 활용 제품 광고 실증책임 강화 고시"
+ },
+ {
+  "id": "2026-09-retail-payment-deadline",
+  "title": "대규모유통업법: 대금지급 기한 단축(직매입 60→35일, 특약매입 40→20일)",
+  "topics": [
+   "retail"
+  ],
+  "visibility": "private",
+  "sources": [
+   "raw/report/2026-10_국정감사_주요업무현황.pdf"
+  ],
+  "tags": [],
+  "statute": "대규모유통업법",
+  "stage": "passed",
+  "effective_date": "2026-09-17",
+  "agenda": [],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 대규모유통업법: 대금지급 기한 단축(직매입 60→35일, 특약매입 40→20일)"
+ },
+ {
+  "id": "2026-11-coop-act-transfer",
+  "title": "소비자생활협동조합법 중소벤처기업부 이관",
+  "topics": [
+   "consumer"
+  ],
+  "visibility": "private",
+  "sources": [
+   "raw/report/2026-10_국정감사_주요업무현황.pdf"
+  ],
+  "tags": [],
+  "statute": "소비자생활협동조합법",
+  "stage": "passed",
+  "effective_date": "2026-11-13",
+  "agenda": [],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 소비자생활협동조합법 중소벤처기업부 이관"
+ },
+ {
+  "id": "2027-09-mutual-aid-credit-limit",
+  "title": "할부거래법: 상조회사 지배주주 신용공여 제한",
+  "topics": [
+   "special-sales"
+  ],
+  "visibility": "private",
+  "sources": [
+   "raw/report/2026-10_국정감사_주요업무현황.pdf"
+  ],
+  "tags": [],
+  "statute": "할부거래법",
+  "stage": "passed",
+  "effective_date": "2027-09-01",
+  "agenda": [],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 할부거래법: 상조회사 지배주주 신용공여 제한"
+ }
+]

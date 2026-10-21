@@ -1,0 +1,688 @@
+[
+ {
+  "id": "agoda",
+  "title": "아고다",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": null,
+  "aliases": [
+   "아고다",
+   "Agoda"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 아고다"
+ },
+ {
+  "id": "bbq",
+  "title": "제너시스BBQ",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": null,
+  "aliases": [
+   "BBQ",
+   "비비큐"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 제너시스BBQ"
+ },
+ {
+  "id": "bhc",
+  "title": "bhc",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": null,
+  "aliases": [
+   "bhc",
+   "비에이치씨"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# bhc"
+ },
+ {
+  "id": "booking",
+  "title": "부킹닷컴",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": null,
+  "aliases": [
+   "부킹닷컴",
+   "Booking.com"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 부킹닷컴"
+ },
+ {
+  "id": "cj-cheiljedang",
+  "title": "CJ제일제당",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": "cj",
+  "aliases": [
+   "CJ제일제당",
+   "씨제이제일제당"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# CJ제일제당"
+ },
+ {
+  "id": "cj",
+  "title": "CJ",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "group",
+  "group": null,
+  "aliases": [
+   "CJ그룹",
+   "씨제이"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# CJ"
+ },
+ {
+  "id": "coupang-corp",
+  "title": "쿠팡(주)",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": "coupang",
+  "aliases": [
+   "쿠팡",
+   "Coupang"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 쿠팡(주)"
+ },
+ {
+  "id": "coupang",
+  "title": "쿠팡",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "group",
+  "group": null,
+  "aliases": [
+   "Coupang"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 쿠팡"
+ },
+ {
+  "id": "daehan-flour",
+  "title": "대한제분",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": null,
+  "aliases": [
+   "대한제분"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 대한제분"
+ },
+ {
+  "id": "daesang",
+  "title": "대상",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": null,
+  "aliases": [
+   "대상(주)",
+   "대상㈜"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 대상"
+ },
+ {
+  "id": "dunamu",
+  "title": "두나무",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": null,
+  "aliases": [
+   "두나무",
+   "업비트"
+  ],
+  "designated": null,
+  "created": "2026-10-21",
+  "updated": "2026-10-21",
+  "body": "# 두나무"
+ },
+ {
+  "id": "gis-makers",
+  "title": "GIS(가스절연개폐장치) 제조사들",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "association",
+  "group": null,
+  "aliases": [
+   "GIS 담합",
+   "가스절연개폐장치"
+  ],
+  "designated": null,
+  "created": "2026-10-21",
+  "updated": "2026-10-21",
+  "body": "# GIS(가스절연개폐장치) 제조사들"
+ },
+ {
+  "id": "hantop",
+  "title": "한탑",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": null,
+  "aliases": [
+   "한탑"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 한탑"
+ },
+ {
+  "id": "hanwha-ocean",
+  "title": "한화오션",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": "hanwha",
+  "aliases": [
+   "한화오션",
+   "대우조선해양"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 한화오션"
+ },
+ {
+  "id": "hanwha-solutions",
+  "title": "한화솔루션",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": "hanwha",
+  "aliases": [
+   "한화솔루션"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 한화솔루션"
+ },
+ {
+  "id": "hanwha",
+  "title": "한화",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "group",
+  "group": null,
+  "aliases": [
+   "한화그룹"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 한화"
+ },
+ {
+  "id": "hd-hyundai-oilbank",
+  "title": "HD현대오일뱅크",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": "hd-hyundai",
+  "aliases": [
+   "현대오일뱅크",
+   "HD현대오일뱅크"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# HD현대오일뱅크"
+ },
+ {
+  "id": "hd-hyundai",
+  "title": "HD현대",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "group",
+  "group": null,
+  "aliases": [
+   "현대중공업"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# HD현대"
+ },
+ {
+  "id": "hyundai-motor",
+  "title": "현대자동차",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "group",
+  "group": null,
+  "aliases": [
+   "현대차그룹",
+   "현대차"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 현대자동차"
+ },
+ {
+  "id": "jw-pharma",
+  "title": "JW중외제약",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": null,
+  "aliases": [
+   "JW중외제약",
+   "중외제약"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# JW중외제약"
+ },
+ {
+  "id": "kakao",
+  "title": "카카오",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "group",
+  "group": null,
+  "aliases": [
+   "카카오그룹"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 카카오"
+ },
+ {
+  "id": "kyochon",
+  "title": "교촌에프앤비",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": null,
+  "aliases": [
+   "교촌치킨",
+   "교촌"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 교촌에프앤비"
+ },
+ {
+  "id": "lg",
+  "title": "LG",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "group",
+  "group": null,
+  "aliases": [
+   "LG그룹",
+   "엘지"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# LG"
+ },
+ {
+  "id": "lotte",
+  "title": "롯데",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "group",
+  "group": null,
+  "aliases": [
+   "롯데그룹"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 롯데"
+ },
+ {
+  "id": "naver-corp",
+  "title": "네이버(주)",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": "naver",
+  "aliases": [
+   "네이버",
+   "NAVER"
+  ],
+  "designated": null,
+  "created": "2026-10-21",
+  "updated": "2026-10-21",
+  "body": "# 네이버(주)"
+ },
+ {
+  "id": "naver",
+  "title": "네이버",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "group",
+  "group": null,
+  "aliases": [
+   "NAVER"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 네이버"
+ },
+ {
+  "id": "nol-universe",
+  "title": "놀유니버스",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": null,
+  "aliases": [
+   "놀유니버스",
+   "야놀자",
+   "인터파크트리플"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 놀유니버스"
+ },
+ {
+  "id": "ottogi",
+  "title": "오뚜기",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": null,
+  "aliases": [
+   "오뚜기"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 오뚜기"
+ },
+ {
+  "id": "sajo-daerim",
+  "title": "사조대림",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": null,
+  "aliases": [
+   "사조대림"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 사조대림"
+ },
+ {
+  "id": "sajo-dongaone",
+  "title": "사조동아원",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": null,
+  "aliases": [
+   "사조동아원"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 사조동아원"
+ },
+ {
+  "id": "samsung-electronics",
+  "title": "삼성전자",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": "samsung",
+  "aliases": [
+   "삼성전자",
+   "Samsung Electronics"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 삼성전자"
+ },
+ {
+  "id": "samsung-welstory",
+  "title": "삼성웰스토리",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": "samsung",
+  "aliases": [
+   "삼성웰스토리",
+   "웰스토리"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 삼성웰스토리"
+ },
+ {
+  "id": "samsung",
+  "title": "삼성",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "group",
+  "group": null,
+  "aliases": [
+   "삼성그룹"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 삼성"
+ },
+ {
+  "id": "samyang-corp",
+  "title": "삼양사",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": null,
+  "aliases": [
+   "삼양사"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 삼양사"
+ },
+ {
+  "id": "shinsegae",
+  "title": "신세계",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "group",
+  "group": null,
+  "aliases": [
+   "신세계그룹",
+   "이마트"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 신세계"
+ },
+ {
+  "id": "sk-energy",
+  "title": "SK에너지",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": "sk",
+  "aliases": [
+   "SK에너지"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# SK에너지"
+ },
+ {
+  "id": "sk",
+  "title": "SK",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "group",
+  "group": null,
+  "aliases": [
+   "SK그룹",
+   "에스케이"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# SK"
+ },
+ {
+  "id": "uniform-dealers-10",
+  "title": "교복대리점 10곳(용인·울산·영천)",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "association",
+  "group": null,
+  "aliases": [
+   "교복대리점"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 교복대리점 10곳(용인·울산·영천)"
+ },
+ {
+  "id": "yeogi",
+  "title": "여기어때컴퍼니",
+  "topics": [],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "kind": "company",
+  "group": null,
+  "aliases": [
+   "여기어때"
+  ],
+  "designated": null,
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 여기어때컴퍼니"
+ }
+]

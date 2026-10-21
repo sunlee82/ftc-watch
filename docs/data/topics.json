@@ -1,0 +1,276 @@
+[
+ {
+  "id": "abuse",
+  "title": "시장지배적지위 남용·불공정거래",
+  "topics": [
+   "abuse"
+  ],
+  "visibility": "public",
+  "units": [
+   "시장감시국",
+   "서비스업감시과",
+   "제조업감시과",
+   "지식산업감시과"
+  ],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 시장지배적지위 남용·불공정거래\n\n## 핸드북 (예정)\n\n## 메모"
+ },
+ {
+  "id": "advertising",
+  "title": "표시광고",
+  "topics": [
+   "advertising"
+  ],
+  "visibility": "public",
+  "units": [
+   "표시광고감시과",
+   "표시광고"
+  ],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 표시광고\n\n## 핸드북 (예정)\n\n## 메모"
+ },
+ {
+  "id": "agency",
+  "title": "대리점",
+  "topics": [
+   "agency"
+  ],
+  "visibility": "public",
+  "units": [
+   "대리점거래조사과"
+  ],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 대리점\n\n## 핸드북 (예정)\n\n## 메모"
+ },
+ {
+  "id": "cartel",
+  "title": "카르텔",
+  "topics": [
+   "cartel"
+  ],
+  "visibility": "public",
+  "units": [
+   "카르텔조사국",
+   "제조카르텔조사과",
+   "입찰담합조사과",
+   "국제카르텔조사과",
+   "건설에너지카르텔조사과",
+   "서비스카르텔조사과"
+  ],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 카르텔\n\n## 핸드북 (예정)\n\n## 메모"
+ },
+ {
+  "id": "consumer",
+  "title": "소비자정책",
+  "topics": [
+   "consumer"
+  ],
+  "visibility": "public",
+  "units": [
+   "소비자정책국",
+   "소비자안전교육과",
+   "소비자거래정책과"
+  ],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 소비자정책\n\n## 핸드북 (예정)\n\n## 메모"
+ },
+ {
+  "id": "digital",
+  "title": "디지털·플랫폼",
+  "topics": [
+   "digital"
+  ],
+  "visibility": "public",
+  "units": [
+   "디지털공정거래정책과"
+  ],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 디지털·플랫폼\n\n## 핸드북 (예정)\n\n## 메모"
+ },
+ {
+  "id": "ecommerce",
+  "title": "전자상거래",
+  "topics": [
+   "ecommerce"
+  ],
+  "visibility": "public",
+  "units": [
+   "전자거래감시과",
+   "전자거래팀"
+  ],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 전자상거래\n\n## 핸드북 (예정)\n\n## 메모"
+ },
+ {
+  "id": "franchise",
+  "title": "가맹",
+  "topics": [
+   "franchise"
+  ],
+  "visibility": "public",
+  "units": [
+   "가맹거래조사과",
+   "가맹거래정책과",
+   "가맹유통팀"
+  ],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 가맹\n\n## 핸드북 (예정)\n\n## 메모"
+ },
+ {
+  "id": "group",
+  "title": "기업집단",
+  "topics": [
+   "group"
+  ],
+  "visibility": "public",
+  "units": [
+   "기업집단감시국",
+   "기업집단관리과",
+   "공시점검과",
+   "내부거래감시과",
+   "부당지원감시과",
+   "기업집단정보분석팀"
+  ],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 기업집단\n\n## 핸드북 (예정)\n\n## 메모"
+ },
+ {
+  "id": "merger",
+  "title": "기업결합",
+  "topics": [
+   "merger"
+  ],
+  "visibility": "public",
+  "units": [
+   "기업결합과",
+   "국제기업결합과"
+  ],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 기업결합\n\n## 핸드북 (예정)\n\n## 메모"
+ },
+ {
+  "id": "policy",
+  "title": "경쟁정책·제도",
+  "topics": [
+   "policy"
+  ],
+  "visibility": "public",
+  "units": [
+   "경쟁정책국",
+   "경쟁정책과",
+   "시장구조개선정책과",
+   "경쟁제한규제개혁작업단",
+   "국제협력과"
+  ],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 경쟁정책·제도\n\n## 핸드북 (예정)\n\n## 메모"
+ },
+ {
+  "id": "procedure",
+  "title": "심판·소송·절차",
+  "topics": [
+   "procedure"
+  ],
+  "visibility": "public",
+  "units": [
+   "심판관리관",
+   "송무담당관",
+   "조사관리관"
+  ],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 심판·소송·절차\n\n## 핸드북 (예정)\n\n## 메모"
+ },
+ {
+  "id": "retail",
+  "title": "대규모유통",
+  "topics": [
+   "retail"
+  ],
+  "visibility": "public",
+  "units": [
+   "유통거래조사과",
+   "유통대리점정책과"
+  ],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 대규모유통\n\n## 핸드북 (예정)\n\n## 메모"
+ },
+ {
+  "id": "special-probe",
+  "title": "중점조사기획단",
+  "topics": [
+   "special-probe"
+  ],
+  "visibility": "public",
+  "units": [
+   "중점조사기획단",
+   "중점조사1담당관",
+   "중점조사2담당관",
+   "중점조사3담당관"
+  ],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 중점조사기획단\n\n## 핸드북 (예정)\n\n## 메모"
+ },
+ {
+  "id": "special-sales",
+  "title": "특수거래(방문판매·할부·상조)",
+  "topics": [
+   "special-sales"
+  ],
+  "visibility": "public",
+  "units": [
+   "특수거래감시팀",
+   "특수거래정책과"
+  ],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 특수거래(방문판매·할부·상조)\n\n## 핸드북 (예정)\n\n## 메모"
+ },
+ {
+  "id": "subcontract",
+  "title": "하도급",
+  "topics": [
+   "subcontract"
+  ],
+  "visibility": "public",
+  "units": [
+   "제조하도급조사과",
+   "건설하도급조사팀",
+   "기술유용조사과",
+   "신산업하도급조사과",
+   "건설하도급과",
+   "제조하도급과"
+  ],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 하도급\n\n## 핸드북 (예정)\n\n## 메모"
+ },
+ {
+  "id": "terms",
+  "title": "약관",
+  "topics": [
+   "terms"
+  ],
+  "visibility": "public",
+  "units": [
+   "약관심사과"
+  ],
+  "created": "2026-10-14",
+  "updated": "2026-10-14",
+  "body": "# 약관\n\n## 핸드북 (예정)\n\n## 메모"
+ }
+]
