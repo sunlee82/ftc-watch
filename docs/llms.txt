@@ -3,12 +3,17 @@
 > 공정거래위원회 사건·정책 추적. 공정위 공개 자료와 언론 보도를 사건 단위로 구조화. 각 사건 페이지 첫 문단이 핵심 사실 요약이며 출처 등급(공정위 공식/법원/정부·국회/언론 보도)을 구분해 표시.
 
 ## 핵심 페이지
-- [사건 목록](https://sunlee82.github.io/ftc-watch/): 14건
+- [사건 목록](https://sunlee82.github.io/ftc-watch/): 18건
 - [말한 것 vs 한 것](https://sunlee82.github.io/ftc-watch/agenda.html): 업무계획 과제 18건의 집행 현황
 - [기업집단별](https://sunlee82.github.io/ftc-watch/groups.html)
 - [분야별](https://sunlee82.github.io/ftc-watch/topics.html)
 
 ## 사건
+- [대교·재능교육 대리점법 위반 의혹 사건](https://sunlee82.github.io/ftc-watch/cases/2026-daekyo-jeineung-agency-probe.html): 공정위가 대리점법 위반 의혹과 관련해 대교와 재능교육 등 2곳을 현장조사했다고 2026년 10월 22일 보도됨.
+- [한화 계열사 상표권 사용료 관련 공정위 조사](https://sunlee82.github.io/ftc-watch/cases/2026-hanwha-trademark-fee.html): 2026년 10월 국정감사에서 한화 기술탈취 의혹이 재점화된 가운데, 공정위가 한화 계열사의 상표권 사용료 거래도 조사하고 있다고 보도됨.
+- [정식품 대리점 물량 밀어내기 의혹 사건](https://sunlee82.github.io/ftc-watch/cases/2026-jungsikpum-agency-probe.html): 공정위가 '베지밀' 제조사 정식품의 대리점 상대 물량 밀어내기 의혹과 관련해 현장조사를 실시했다고 2026년 10월 22일 보도됨.
+- [유니시티코리아 후원수당 지급한도 우회 의혹 동의의결 사건](https://sunlee82.github.io/ftc-watch/cases/2026-unicity-korea-consent-decree.html): 공정위가 유니시티코리아의 방문판매법상 후원수당 지급한도(매출액의 35%) 우회 혐의에 대해 동의의결 절차를 개시하기로 결정함(공정위 2026년 10월 21일 보도참고자료). 최상위판매원을 미국 본사 소속으로 변경해 
+- [우진산전 철도차량 입찰담합 사건](https://sunlee82.github.io/ftc-watch/cases/2026-woojin-industrial-bid-cartel.html): 공정위가 철도차량 제조업체 우진산전의 입찰 담합 혐의와 관련해 현장조사를 실시했다고 2026년 10월 21~22일 보도됨. 구체적인 담합 대상 입찰과 참여 업체는 보도에서 확인되지 않음.
 - [GIS 구매 입찰담합 과징금 391억원 취소소송](https://sunlee82.github.io/ftc-watch/cases/2026-gis-bid-cartel-litigation.html): 가스절연개폐장치(GIS) 구매 입찰담합으로 전력기기 업체들에 부과된 391억원대 과징금에 대해 업체들이 제기한 취소소송에서 법원이 잇달아 공정위 손을 들어주고 있다고 2026년 10월 20일 보도됨.
 - [네이버-두나무 기업결합 심사](https://sunlee82.github.io/ftc-watch/cases/2026-naver-dunamu-merger.html): 네이버와 두나무(업비트 운영사)의 기업결합에 대해 공정위가 심사 중이며, 고난도 심사로 연내 심의를 목표로 속도를 내고 있다고 2026년 9월 보도됨. 업무보고(2026.10)에서 디지털 기업결합 심층 심사 대상으로
 - [BYC 내의 발열·항균 성능 거짓·과장광고 사건](https://sunlee82.github.io/ftc-watch/cases/2026-byc-heating-antibacterial-ad.html): BYC가 일부 내의 제품의 발열·항균 성능을 객관적인 근거 없이 거짓·과장 광고해 공정위로부터 시정명령을 받았다고 보도됨(구미뉴스 2026년 10월 보도). 해당 매체가 공정위 의결서를 확보해 확인했다고 전함. 과징
@@ -17,7 +22,6 @@
 - [JW중외제약 의약품 리베이트(부당고객유인) 사건](https://sunlee82.github.io/ftc-watch/cases/2023-jw-pharma-rebate.html): 공정위가 2023년 JW중외제약의 의약품 판촉 리베이트에 대해 시정명령과 과징금 약 299억원을 부과함. 2026년 9월 17일 서울고등법원 제7행정부는 과징금 전액 취소(원고 일부 승소) 판결. 이후 양측이 상고해
 - [치킨 프랜차이즈 3사 가격담합 의혹 현장조사](https://sunlee82.github.io/ftc-watch/cases/2026-chicken-franchise-cartel.html): 공정위가 2026년 10월 6일 bhc·BBQ·교촌치킨 등 치킨 프랜차이즈 3사의 가격담합 의혹과 관련해 현장조사에 착수했다고 보도됨.
 - [쿠팡 조사방해(현장조사 거부) 사건](https://sunlee82.github.io/ftc-watch/cases/2026-coupang-obstruction.html): 공정위 사무처가 쿠팡의 현장조사 방해를 이유로 과태료 부과 심사보고서를 송부했다고 2026년 10월 1일 보도됨. 쿠팡은 공정위 현장조사에 대해 법적 대응(소송)으로 맞서고 있으며, 10월 13일 국정감사에서 위원장
-- [한화 계열사 상표권 사용료 관련 공정위 조사](https://sunlee82.github.io/ftc-watch/cases/2026-hanwha-trademark-fee.html): 2026년 10월 국정감사에서 한화 기술탈취 의혹이 재점화된 가운데, 공정위가 한화 계열사의 상표권 사용료 거래도 조사하고 있다고 보도됨.
 - [온라인여행사(OTA) 4사 다크패턴 조사](https://sunlee82.github.io/ftc-watch/cases/2026-ota-darkpattern.html): 공정위가 놀유니버스·여기어때·아고다·부킹닷컴 등 OTA 4개사의 다크패턴 의혹에 대해 조사에 착수했다고 2026년 10월 12일 보도됨(트립닷컴은 제외).
 - [오뚜기·대상·CJ제일제당 가공식품 담합 의혹 현장조사](https://sunlee82.github.io/ftc-watch/cases/2026-processed-food-cartel.html): 공정위가 2026년 10월 14일 오뚜기·대상·CJ제일제당의 가공식품 가격담합 의혹과 관련해 현장조사를 실시했다고 보도됨. 업무보고(2026.10)의 식재료 등 민생 분야 담합 집중 점검 과제에 해당.
 - [SK에너지·HD현대오일뱅크 석유제품 가격담합 사건](https://sunlee82.github.io/ftc-watch/cases/2026-refinery-price-cartel.html): 공정위 사무처가 SK에너지와 HD현대오일뱅크의 휘발유·경유·등유 가격담합 혐의에 대해 심사보고서를 송부하고 심의 절차를 개시함(공정위 2026년 10월 7일 보도참고). 관련 매출액이 44조원대로 보도됨. 10월 1

@@ -157,6 +157,36 @@
   "body": "# 쿠팡 조사방해(현장조사 거부) 사건\n\n## 해설\n\n## 메모"
  },
  {
+  "id": "2026-daekyo-jeineung-agency-probe",
+  "title": "대교·재능교육 대리점법 위반 의혹 사건",
+  "topics": [
+   "agency"
+  ],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "orgs": [
+   "daekyo",
+   "jeineung-education"
+  ],
+  "groups": [],
+  "stage": "probe",
+  "office": "본부",
+  "unit": null,
+  "statutes": [],
+  "case_no": null,
+  "decision_no": null,
+  "fine_krw": null,
+  "sanctions": [],
+  "agenda": [],
+  "related": [],
+  "summary": "공정위가 대리점법 위반 의혹과 관련해 대교와 재능교육 등 2곳을 현장조사했다고 2026년 10월 22일 보도됨.",
+  "next_expected": null,
+  "created": "2026-10-22",
+  "updated": "2026-10-22",
+  "body": "# 대교·재능교육 대리점법 위반 의혹 사건\n\n## 해설\n\n## 메모"
+ },
+ {
   "id": "2026-flour-byproduct-cartel",
   "title": "밀가루 부산물(밀기울) 6개사 가격담합 사건",
   "topics": [
@@ -253,8 +283,37 @@
   "summary": "2026년 10월 국정감사에서 한화 기술탈취 의혹이 재점화된 가운데, 공정위가 한화 계열사의 상표권 사용료 거래도 조사하고 있다고 보도됨.",
   "next_expected": null,
   "created": "2026-10-14",
-  "updated": "2026-10-14",
+  "updated": "2026-10-22",
   "body": "# 한화 계열사 상표권 사용료 관련 공정위 조사\n\n## 해설\n\n## 메모"
+ },
+ {
+  "id": "2026-jungsikpum-agency-probe",
+  "title": "정식품 대리점 물량 밀어내기 의혹 사건",
+  "topics": [
+   "agency"
+  ],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "orgs": [
+   "jungsikpum"
+  ],
+  "groups": [],
+  "stage": "probe",
+  "office": "본부",
+  "unit": null,
+  "statutes": [],
+  "case_no": null,
+  "decision_no": null,
+  "fine_krw": null,
+  "sanctions": [],
+  "agenda": [],
+  "related": [],
+  "summary": "공정위가 '베지밀' 제조사 정식품의 대리점 상대 물량 밀어내기 의혹과 관련해 현장조사를 실시했다고 2026년 10월 22일 보도됨.",
+  "next_expected": null,
+  "created": "2026-10-22",
+  "updated": "2026-10-22",
+  "body": "# 정식품 대리점 물량 밀어내기 의혹 사건\n\n## 해설\n\n## 메모"
  },
  {
   "id": "2026-naver-dunamu-merger",
@@ -462,5 +521,65 @@
   "created": "2026-10-14",
   "updated": "2026-10-14",
   "body": "# 용인·울산·영천 교복대리점 10곳 입찰담합 사건\n\n## 해설\n\n## 메모"
+ },
+ {
+  "id": "2026-unicity-korea-consent-decree",
+  "title": "유니시티코리아 후원수당 지급한도 우회 의혹 동의의결 사건",
+  "topics": [
+   "special-sales"
+  ],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "orgs": [
+   "unicity-korea"
+  ],
+  "groups": [],
+  "stage": "probe",
+  "office": "본부",
+  "unit": "특수거래감시팀",
+  "statutes": [
+   "방문판매 등에 관한 법률 제20조 제3항"
+  ],
+  "case_no": null,
+  "decision_no": null,
+  "fine_krw": null,
+  "sanctions": [],
+  "agenda": [],
+  "related": [],
+  "summary": "공정위가 유니시티코리아의 방문판매법상 후원수당 지급한도(매출액의 35%) 우회 혐의에 대해 동의의결 절차를 개시하기로 결정함(공정위 2026년 10월 21일 보도참고자료). 최상위판매원을 미국 본사 소속으로 변경해 본사가 수당을 지급하는 방식으로 2021~2024년 4개년도 한도를 초과했는지가 조사 대상이었으며, 민사 2심과 검찰은 우회지급으로 보지 않았음.",
+  "next_expected": null,
+  "created": "2026-10-22",
+  "updated": "2026-10-22",
+  "body": "# 유니시티코리아 후원수당 지급한도 우회 의혹 동의의결 사건\n\n## 해설\n\n## 메모"
+ },
+ {
+  "id": "2026-woojin-industrial-bid-cartel",
+  "title": "우진산전 철도차량 입찰담합 사건",
+  "topics": [
+   "cartel/bid"
+  ],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "orgs": [
+   "woojin-industrial"
+  ],
+  "groups": [],
+  "stage": "probe",
+  "office": "본부",
+  "unit": null,
+  "statutes": [],
+  "case_no": null,
+  "decision_no": null,
+  "fine_krw": null,
+  "sanctions": [],
+  "agenda": [],
+  "related": [],
+  "summary": "공정위가 철도차량 제조업체 우진산전의 입찰 담합 혐의와 관련해 현장조사를 실시했다고 2026년 10월 21~22일 보도됨. 구체적인 담합 대상 입찰과 참여 업체는 보도에서 확인되지 않음.",
+  "next_expected": null,
+  "created": "2026-10-22",
+  "updated": "2026-10-22",
+  "body": "# 우진산전 철도차량 입찰담합 사건\n\n## 해설\n\n## 메모"
  }
 ]
