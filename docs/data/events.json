@@ -382,5 +382,21 @@
   "created": "2026-10-22",
   "updated": "2026-10-22",
   "body": "공정위가 정식품 대리점 물량 밀어내기 의혹으로 현장조사를 실시했다고 보도됨"
+ },
+ {
+  "id": "2026-10-23-2026-cj-freshway-bid-cartel-1",
+  "case": "2026-cj-freshway-bid-cartel",
+  "date": "2026-10-23",
+  "stage": "probe",
+  "grade": "press",
+  "headline": "[단독] 공정위, CJ프레시웨이 현장조사…“식자재 입찰 담합 의혹”",
+  "new_facts": "공정위가 CJ프레시웨이를 대상으로 식자재 입찰 담합 의혹 현장조사를 실시했다고 보도됨",
+  "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUOUR0Y01lUWlodThnUmVrTHNucERweV91Z3BFTHRiZFlZbjFtNXVqMVRLTU8tY2hUMmE0aXVWMFlMbFZ4aGprZjJqdkdteFRtN3hjanlnVjFzdWJJSVZic21nUVFjQQ?oc=5",
+  "source_file": null,
+  "alert": true,
+  "visibility": "private",
+  "created": "2026-10-23",
+  "updated": "2026-10-23",
+  "body": "공정위가 CJ프레시웨이를 대상으로 식자재 입찰 담합 의혹 현장조사를 실시했다고 보도됨"
  }
 ]
