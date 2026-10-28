@@ -398,5 +398,37 @@
   "created": "2026-10-23",
   "updated": "2026-10-23",
   "body": "공정위가 CJ프레시웨이를 대상으로 식자재 입찰 담합 의혹 현장조사를 실시했다고 보도됨"
+ },
+ {
+  "id": "2026-10-27-2026-samsung-gos-advertising-1",
+  "case": "2026-samsung-gos-advertising",
+  "date": "2026-10-27",
+  "stage": "decision",
+  "grade": "official",
+  "headline": "공정위, 삼성전자 갤럭시 GOS 성능제한 누락 광고에 시정명령·과징금 약 201억원 부과",
+  "new_facts": "공정위가 삼성전자가 2021년 1월~2022년 3월 갤럭시 S21·S22 시리즈 및 탭 S8 시리즈를 광고하면서 고사양 게임 실행 즉시 최대 성능이 제한된다는 사실을 누락한 행위를 표시광고법 제3조 제1항 제2호(기만적 광고)로 판단하고 시정명령(향후행위금지명령)과 과징금 201억 1,400만원(잠정)을 부과하기로 결정함(공정위 2026년 10월 27일 보도자료).",
+  "source_url": "https://www.ftc.go.kr/www/selectBbsNttView.do?bordCd=3&nttSn=48155",
+  "source_file": "raw/press/2026-10-27_48155.txt",
+  "alert": true,
+  "visibility": "private",
+  "created": "2026-10-28",
+  "updated": "2026-10-28",
+  "body": "공정위가 삼성전자가 2021년 1월~2022년 3월 갤럭시 S21·S22 시리즈 및 탭 S8 시리즈를 광고하면서 고사양 게임 실행 즉시 최대 성능이 제한된다는 사실을 누락한 행위를 표시광고법 제3조 제1항 제2호(기만적 광고)로 판단하고 시정명령(향후행위금지명령)과 과징금 201억 1,400만원(잠정)을 부과하기로 결정함(공정위 2026년 10월 27일 보도자료)."
+ },
+ {
+  "id": "2026-10-28-2026-samsung-gos-advertising-1",
+  "case": "2026-samsung-gos-advertising",
+  "date": "2026-10-28",
+  "stage": "decision",
+  "grade": "press",
+  "headline": "삼성전자, GOS 과징금에 '동의하기 어렵다'며 법적 대응 예고",
+  "new_facts": "삼성전자가 공정위 결정에 동의하기 어렵다는 입장을 내고 소송 등 법적 대응에 나설 뜻을 밝혔다고 2026년 10월 27~28일 보도됨. 소송 제기 여부는 아직 확인되지 않음.",
+  "source_url": "https://www.yonhapnewstv.co.kr/news/MYH202610280651599DN",
+  "source_file": null,
+  "alert": false,
+  "visibility": "private",
+  "created": "2026-10-28",
+  "updated": "2026-10-28",
+  "body": "삼성전자가 공정위 결정에 동의하기 어렵다는 입장을 내고 소송 등 법적 대응에 나설 뜻을 밝혔다고 2026년 10월 27~28일 보도됨. 소송 제기 여부는 아직 확인되지 않음."
  }
 ]
