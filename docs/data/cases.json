@@ -158,6 +158,40 @@
   "body": "# CJ프레시웨이 식자재 입찰담합 사건\n\n## 해설\n\n## 메모"
  },
  {
+  "id": "2026-coupang-eats-wow-tying",
+  "title": "쿠팡 쿠팡이츠 무료배달·와우멤버십 끼워팔기 사건",
+  "topics": [
+   "abuse",
+   "digital"
+  ],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "orgs": [
+   "coupang-corp"
+  ],
+  "groups": [
+   "coupang"
+  ],
+  "stage": "hearing",
+  "office": "본부",
+  "unit": null,
+  "statutes": [],
+  "case_no": null,
+  "decision_no": null,
+  "fine_krw": null,
+  "sanctions": [],
+  "agenda": [
+   "2026-10-delivery-mfn-tying"
+  ],
+  "related": [],
+  "summary": "쿠팡이츠 무료배달을 와우 멤버십에 묶어 판 끼워팔기 혐의 사건이 공정위 위원회 심의 단계에 들어갔고 결론이 임박했다고 2026년 10월 28일 보도됨.",
+  "next_expected": null,
+  "created": "2026-10-29",
+  "updated": "2026-10-29",
+  "body": "# 쿠팡 쿠팡이츠 무료배달·와우멤버십 끼워팔기 사건\n\n## 해설\n\n## 메모"
+ },
+ {
   "id": "2026-coupang-obstruction",
   "title": "쿠팡 조사방해(현장조사 거부) 사건",
   "topics": [
@@ -450,6 +484,79 @@
   "created": "2026-10-14",
   "updated": "2026-10-14",
   "body": "# 오뚜기·대상·CJ제일제당 가공식품 담합 의혹 현장조사\n\n## 해설\n\n## 메모"
+ },
+ {
+  "id": "2026-public-construction-bid-cartel",
+  "title": "계룡건설·코오롱글로벌 등 6개 건설사 공공공사 입찰담합 의혹 사건",
+  "topics": [
+   "cartel/bid"
+  ],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "orgs": [
+   "kr-industry",
+   "jinheung-enterprise",
+   "gyeryong-construction",
+   "kumho-engineering-construction",
+   "kolon-global",
+   "isu-construction"
+  ],
+  "groups": [
+   "kolon",
+   "kumho-asiana"
+  ],
+  "stage": "probe",
+  "office": "본부",
+  "unit": null,
+  "statutes": [],
+  "case_no": null,
+  "decision_no": null,
+  "fine_krw": null,
+  "sanctions": [],
+  "agenda": [],
+  "related": [],
+  "summary": "공정위가 2026년 10월 28일 케이알산업·진흥기업·계룡건설·금호건설·코오롱글로벌·이수건설 6개 건설사의 공공공사 입찰담합 의혹과 관련해 현장조사를 실시했다고 보도됨. LH 발주 공사 등 종합심사낙찰제 적용 공공공사가 대상이며, 건설에너지카르텔조사과가 조사에 나섰다고 보도됨.",
+  "next_expected": null,
+  "created": "2026-10-29",
+  "updated": "2026-10-29",
+  "body": "# 계룡건설·코오롱글로벌 등 6개 건설사 공공공사 입찰담합 의혹 사건\n\n## 해설\n\n## 메모"
+ },
+ {
+  "id": "2026-ramen-price-cartel",
+  "title": "농심·삼양식품·오뚜기·팔도 라면 가격담합 의혹 사건",
+  "topics": [
+   "cartel/manufacturing"
+  ],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "orgs": [
+   "nongshim",
+   "samyang-foods",
+   "ottogi",
+   "paldo"
+  ],
+  "groups": [
+   "nongshim-group"
+  ],
+  "stage": "probe",
+  "office": "본부",
+  "unit": null,
+  "statutes": [],
+  "case_no": null,
+  "decision_no": null,
+  "fine_krw": null,
+  "sanctions": [],
+  "agenda": [
+   "2026-10-livelihood-cartel"
+  ],
+  "related": [],
+  "summary": "공정위가 2026년 10월 28일 농심·삼양식품·오뚜기·팔도의 라면 가격담합 의혹과 관련해 현장조사를 실시했다고 보도됨. 가격 인상 시기와 폭을 사전에 조율했는지 들여다보는 것이라고 보도됨.",
+  "next_expected": null,
+  "created": "2026-10-29",
+  "updated": "2026-10-29",
+  "body": "# 농심·삼양식품·오뚜기·팔도 라면 가격담합 의혹 사건\n\n## 해설\n\n## 메모"
  },
  {
   "id": "2026-refinery-price-cartel",
