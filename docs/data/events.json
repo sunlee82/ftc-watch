@@ -494,5 +494,21 @@
   "created": "2026-10-29",
   "updated": "2026-10-29",
   "body": "조사 대상은 라면 가격 인상 시기와 폭에 대한 사전 조율 여부라고 2026년 10월 29일 보도됨."
+ },
+ {
+  "id": "2026-10-30-2026-hanwha-data-order-suit-1",
+  "case": "2026-hanwha-data-order-suit",
+  "date": "2026-10-30",
+  "stage": "litigation",
+  "grade": "press",
+  "headline": "한화 vs 공정위 자료제출명령 취소소송 첫 변론",
+  "new_facts": "한화가 제기한 현장조사 자료제출명령 취소소송의 첫 변론이 열림. 쟁점은 현장조사 중 직원 개인 휴대전화 열람·문자메시지 제출 요구 명령의 적법성이며, 공정위는 변호사 배석하에 직원이 직접 보여준 것이라고 반박했다고 보도됨.",
+  "source_url": "https://www.lawtimes.co.kr/news/articleViewAmp.html?idxno=228560",
+  "source_file": null,
+  "alert": false,
+  "visibility": "private",
+  "created": "2026-10-30",
+  "updated": "2026-10-30",
+  "body": "한화가 제기한 현장조사 자료제출명령 취소소송의 첫 변론이 열림. 쟁점은 현장조사 중 직원 개인 휴대전화 열람·문자메시지 제출 요구 명령의 적법성이며, 공정위는 변호사 배석하에 직원이 직접 보여준 것이라고 반박했다고 보도됨."
  }
 ]

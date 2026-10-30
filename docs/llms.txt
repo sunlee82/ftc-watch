@@ -3,12 +3,13 @@
 > 공정거래위원회 사건·정책 추적. 공정위 공개 자료와 언론 보도를 사건 단위로 구조화. 각 사건 페이지 첫 문단이 핵심 사실 요약이며 출처 등급(공정위 공식/법원/정부·국회/언론 보도)을 구분해 표시.
 
 ## 핵심 페이지
-- [사건 목록](https://sunlee82.github.io/ftc-watch/): 22건
+- [사건 목록](https://sunlee82.github.io/ftc-watch/): 23건
 - [말한 것 vs 한 것](https://sunlee82.github.io/ftc-watch/agenda.html): 업무계획 과제 18건의 집행 현황
 - [기업집단별](https://sunlee82.github.io/ftc-watch/groups.html)
 - [분야별](https://sunlee82.github.io/ftc-watch/topics.html)
 
 ## 사건
+- [한화 공정위 현장조사 자료제출명령 취소소송](https://sunlee82.github.io/ftc-watch/cases/2026-hanwha-data-order-suit.html): 한화가 공정위의 현장조사 중 직원 개인 휴대전화 열람·문자메시지 제출 요구 명령의 취소를 구하는 소송의 첫 변론이 열렸다고 보도됨. 명령의 적법성이 쟁점이며, 공정위는 같은 날 설명자료에서 변호사 배석하에 직원이 직
 - [쿠팡 쿠팡이츠 무료배달·와우멤버십 끼워팔기 사건](https://sunlee82.github.io/ftc-watch/cases/2026-coupang-eats-wow-tying.html): 쿠팡이츠 무료배달을 와우 멤버십에 묶어 판 끼워팔기 혐의 사건이 공정위 위원회 심의 단계에 들어갔고 결론이 임박했다고 2026년 10월 28일 보도됨.
 - [계룡건설·코오롱글로벌 등 6개 건설사 공공공사 입찰담합 의혹 사건](https://sunlee82.github.io/ftc-watch/cases/2026-public-construction-bid-cartel.html): 공정위가 2026년 10월 28일 케이알산업·진흥기업·계룡건설·금호건설·코오롱글로벌·이수건설 6개 건설사의 공공공사 입찰담합 의혹과 관련해 현장조사를 실시했다고 보도됨. LH 발주 공사 등 종합심사낙찰제 적용 공공공
 - [농심·삼양식품·오뚜기·팔도 라면 가격담합 의혹 사건](https://sunlee82.github.io/ftc-watch/cases/2026-ramen-price-cartel.html): 공정위가 2026년 10월 28일 농심·삼양식품·오뚜기·팔도의 라면 가격담합 의혹과 관련해 현장조사를 실시했다고 보도됨. 가격 인상 시기와 폭을 사전에 조율했는지 들여다보는 것이라고 보도됨.
