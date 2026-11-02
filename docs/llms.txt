@@ -9,7 +9,8 @@
 - [분야별](https://sunlee82.github.io/ftc-watch/topics.html)
 
 ## 사건
-- [한화 공정위 현장조사 자료제출명령 취소소송](https://sunlee82.github.io/ftc-watch/cases/2026-hanwha-data-order-suit.html): 한화가 공정위의 현장조사 중 직원 개인 휴대전화 열람·문자메시지 제출 요구 명령의 취소를 구하는 소송의 첫 변론이 열렸다고 보도됨. 명령의 적법성이 쟁점이며, 공정위는 같은 날 설명자료에서 변호사 배석하에 직원이 직
+- [쿠팡 조사방해(현장조사 거부) 사건](https://sunlee82.github.io/ftc-watch/cases/2026-coupang-obstruction.html): 공정위 사무처가 쿠팡의 현장조사 방해를 이유로 과태료 부과 심사보고서를 송부했다고 2026년 10월 1일 보도됨. 쿠팡은 공정위 현장조사에 대해 법적 대응(소송)으로 맞서고 있으며, 10월 13일 국정감사에서 위원장
+- [한화 공정위 현장조사 자료제출명령 취소소송](https://sunlee82.github.io/ftc-watch/cases/2026-hanwha-data-order-suit.html): 2026년 7월 한화 상표권 사용료 부당지원 현장조사 중 공정위가 실무자 휴대전화의 외부 회계사와의 문자를 확인한 뒤 USB 제출을 명령. 한화와 직원이 8월 자료제출명령 취소소송·집행정지 신청, 서울고법 행정7부가
 - [쿠팡 쿠팡이츠 무료배달·와우멤버십 끼워팔기 사건](https://sunlee82.github.io/ftc-watch/cases/2026-coupang-eats-wow-tying.html): 쿠팡이츠 무료배달을 와우 멤버십에 묶어 판 끼워팔기 혐의 사건이 공정위 위원회 심의 단계에 들어갔고 결론이 임박했다고 2026년 10월 28일 보도됨.
 - [계룡건설·코오롱글로벌 등 6개 건설사 공공공사 입찰담합 의혹 사건](https://sunlee82.github.io/ftc-watch/cases/2026-public-construction-bid-cartel.html): 공정위가 2026년 10월 28일 케이알산업·진흥기업·계룡건설·금호건설·코오롱글로벌·이수건설 6개 건설사의 공공공사 입찰담합 의혹과 관련해 현장조사를 실시했다고 보도됨. LH 발주 공사 등 종합심사낙찰제 적용 공공공
 - [농심·삼양식품·오뚜기·팔도 라면 가격담합 의혹 사건](https://sunlee82.github.io/ftc-watch/cases/2026-ramen-price-cartel.html): 공정위가 2026년 10월 28일 농심·삼양식품·오뚜기·팔도의 라면 가격담합 의혹과 관련해 현장조사를 실시했다고 보도됨. 가격 인상 시기와 폭을 사전에 조율했는지 들여다보는 것이라고 보도됨.
@@ -27,7 +28,6 @@
 - [삼성전자 등 삼성웰스토리 급식 일감몰아주기(부당지원) 사건](https://sunlee82.github.io/ftc-watch/cases/2021-samsung-welstory-support.html): 공정위가 2021년 삼성전자 등 4개사의 삼성웰스토리 급식 일감몰아주기(부당지원)에 과징금 약 2,349억원을 부과한 사건. 행정소송이 진행 중이며 2026년 10월 14일 대법원으로 가게 됐다고 보도됨.
 - [JW중외제약 의약품 리베이트(부당고객유인) 사건](https://sunlee82.github.io/ftc-watch/cases/2023-jw-pharma-rebate.html): 공정위가 2023년 JW중외제약의 의약품 판촉 리베이트에 대해 시정명령과 과징금 약 299억원을 부과함. 2026년 9월 17일 서울고등법원 제7행정부는 과징금 전액 취소(원고 일부 승소) 판결. 이후 양측이 상고해
 - [치킨 프랜차이즈 3사 가격담합 의혹 현장조사](https://sunlee82.github.io/ftc-watch/cases/2026-chicken-franchise-cartel.html): 공정위가 2026년 10월 6일 bhc·BBQ·교촌치킨 등 치킨 프랜차이즈 3사의 가격담합 의혹과 관련해 현장조사에 착수했다고 보도됨.
-- [쿠팡 조사방해(현장조사 거부) 사건](https://sunlee82.github.io/ftc-watch/cases/2026-coupang-obstruction.html): 공정위 사무처가 쿠팡의 현장조사 방해를 이유로 과태료 부과 심사보고서를 송부했다고 2026년 10월 1일 보도됨. 쿠팡은 공정위 현장조사에 대해 법적 대응(소송)으로 맞서고 있으며, 10월 13일 국정감사에서 위원장
 - [온라인여행사(OTA) 4사 다크패턴 조사](https://sunlee82.github.io/ftc-watch/cases/2026-ota-darkpattern.html): 공정위가 놀유니버스·여기어때·아고다·부킹닷컴 등 OTA 4개사의 다크패턴 의혹에 대해 조사에 착수했다고 2026년 10월 12일 보도됨(트립닷컴은 제외).
 - [오뚜기·대상·CJ제일제당 가공식품 담합 의혹 현장조사](https://sunlee82.github.io/ftc-watch/cases/2026-processed-food-cartel.html): 공정위가 2026년 10월 14일 오뚜기·대상·CJ제일제당의 가공식품 가격담합 의혹과 관련해 현장조사를 실시했다고 보도됨. 업무보고(2026.10)의 식재료 등 민생 분야 담합 집중 점검 과제에 해당.
 - [SK에너지·HD현대오일뱅크 석유제품 가격담합 사건](https://sunlee82.github.io/ftc-watch/cases/2026-refinery-price-cartel.html): 공정위 사무처가 SK에너지와 HD현대오일뱅크의 휘발유·경유·등유 가격담합 혐의에 대해 심사보고서를 송부하고 심의 절차를 개시함(공정위 2026년 10월 7일 보도참고). 관련 매출액이 44조원대로 보도됨. 10월 1
