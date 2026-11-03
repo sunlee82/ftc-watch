@@ -542,5 +542,37 @@
   "created": "2026-10-31",
   "updated": "2026-10-31",
   "body": "서울고법 행정7부(재판장 권순형) 10.29 첫 변론. 한화는 직원 휴대전화 동의 없는 열람·밤 11시 심야조사를 위법 조사로 주장, 공정위는 현장 동의 및 업무 연락으로 조사 요건 충족이라 반박. 9월 집행정지 인용으로 명령 효력은 내년 1월 말까지 정지. 양측 증인 2명씩 12월 신문 후 1월 결론."
+ },
+ {
+  "id": "2026-11-02-2020-broadcom-samsung-abuse-1",
+  "case": "2020-broadcom-samsung-abuse",
+  "date": "2026-11-02",
+  "stage": "closed",
+  "grade": "court",
+  "headline": "대법원, 브로드컴 과징금 186억원 취소소송 상고 기각…처분 확정",
+  "new_facts": "대법원 1부가 브로드컴 미국 본사와 지사 등이 공정위의 거래상지위남용 과징금(약 186억원) 취소를 구한 소송에서 상고를 기각해 처분이 확정됐다고 보도됨.",
+  "source_url": "https://www.yna.co.kr/view/AKR20261102166400004",
+  "source_file": null,
+  "alert": true,
+  "visibility": "public",
+  "created": "2026-11-03",
+  "updated": "2026-11-03",
+  "body": "대법원 1부가 브로드컴 미국 본사와 지사 등이 공정위의 거래상지위남용 과징금(약 186억원) 취소를 구한 소송에서 상고를 기각해 처분이 확정됐다고 보도됨."
+ },
+ {
+  "id": "2026-11-03-2026-public-construction-bid-cartel-1",
+  "case": "2026-public-construction-bid-cartel",
+  "date": "2026-11-03",
+  "stage": "probe",
+  "grade": "press",
+  "headline": "공정위, DL이앤씨·태영 등 6곳 현장조사…공공공사 입찰담합 조사 확대",
+  "new_facts": "공정위가 LH 발주 종합심사낙찰제 적용 공사의 입찰담합 의혹과 관련해 10월 28일 현장조사에 이어 DL이앤씨·태영 등 6곳에 추가 현장조사를 실시했다고 보도됨.",
+  "source_url": "https://www.edaily.co.kr/News/Read?newsId=03594886645641784&mediaCodeNo=257",
+  "source_file": null,
+  "alert": true,
+  "visibility": "private",
+  "created": "2026-11-03",
+  "updated": "2026-11-03",
+  "body": "공정위가 LH 발주 종합심사낙찰제 적용 공사의 입찰담합 의혹과 관련해 10월 28일 현장조사에 이어 DL이앤씨·태영 등 6곳에 추가 현장조사를 실시했다고 보도됨."
  }
 ]
