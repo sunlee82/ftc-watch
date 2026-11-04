@@ -574,5 +574,21 @@
   "created": "2026-11-03",
   "updated": "2026-11-03",
   "body": "공정위가 LH 발주 종합심사낙찰제 적용 공사의 입찰담합 의혹과 관련해 10월 28일 현장조사에 이어 DL이앤씨·태영 등 6곳에 추가 현장조사를 실시했다고 보도됨."
+ },
+ {
+  "id": "2026-11-04-2026-lg-electronics-tech-misappropriation-1",
+  "case": "2026-lg-electronics-tech-misappropriation",
+  "date": "2026-11-04",
+  "stage": "probe",
+  "grade": "press",
+  "headline": "공정위, LG전자 창원사업장 현장조사…협력사 '기술유용' 신고 여파",
+  "new_facts": "공정위가 LG전자 창원사업장에 대해 협력사 기술유용 신고와 관련해 현장조사를 실시했다고 보도됨.",
+  "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TVXI3azFaZF94MU4tMG9Za29COGZLLVFWRWJVaTU3WExGLUF3aDFOYV9OUWVxUnF5Y2dBS0dCa19lUEJPcGNkc3BTRmxLampHRHNHSy1VWWJIVTBudEdsbWxRaWYzNG9VRmp5cQ?oc=5",
+  "source_file": null,
+  "alert": true,
+  "visibility": "private",
+  "created": "2026-11-04",
+  "updated": "2026-11-04",
+  "body": "공정위가 LG전자 창원사업장에 대해 협력사 기술유용 신고와 관련해 현장조사를 실시했다고 보도됨."
  }
 ]

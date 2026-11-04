@@ -3,12 +3,13 @@
 > 공정거래위원회 사건·정책 추적. 공정위 공개 자료와 언론 보도를 사건 단위로 구조화. 각 사건 페이지 첫 문단이 핵심 사실 요약이며 출처 등급(공정위 공식/법원/정부·국회/언론 보도)을 구분해 표시.
 
 ## 핵심 페이지
-- [사건 목록](https://sunlee82.github.io/ftc-watch/): 24건
+- [사건 목록](https://sunlee82.github.io/ftc-watch/): 25건
 - [말한 것 vs 한 것](https://sunlee82.github.io/ftc-watch/agenda.html): 업무계획 과제 18건의 집행 현황
 - [기업집단별](https://sunlee82.github.io/ftc-watch/groups.html)
 - [분야별](https://sunlee82.github.io/ftc-watch/topics.html)
 
 ## 사건
+- [LG전자 협력사 기술유용 의혹 사건](https://sunlee82.github.io/ftc-watch/cases/2026-lg-electronics-tech-misappropriation.html): 공정위가 LG전자 창원사업장에 대해 협력사 기술유용 신고와 관련해 현장조사에 나섰다고 보도됨(2026년 11월 4일 언론 보도).
 - [브로드컴 삼성전자 대상 장기구매계약 강요 거래상지위남용 사건](https://sunlee82.github.io/ftc-watch/cases/2020-broadcom-samsung-abuse.html): 공정위가 2023년 10월 6일 브로드컴인코포레이티드 등 4개사가 삼성전자에 장기구매계약(LTA) 체결을 강요한 행위를 거래상지위남용으로 보아 과징금 186억 6,400만원을 부과함(의결2023-153, 사건번호 2
 - [계룡건설·코오롱글로벌 등 6개 건설사 공공공사 입찰담합 의혹 사건](https://sunlee82.github.io/ftc-watch/cases/2026-public-construction-bid-cartel.html): 공정위가 2026년 10월 28일 케이알산업·진흥기업·계룡건설·금호건설·코오롱글로벌·이수건설 6개 건설사의 공공공사 입찰담합 의혹과 관련해 현장조사를 실시했다고 보도됨. LH 발주 공사 등 종합심사낙찰제 적용 공공공
 - [쿠팡 조사방해(현장조사 거부) 사건](https://sunlee82.github.io/ftc-watch/cases/2026-coupang-obstruction.html): 공정위 사무처가 쿠팡의 현장조사 방해를 이유로 과태료 부과 심사보고서를 송부했다고 2026년 10월 1일 보도됨. 쿠팡은 공정위 현장조사에 대해 법적 대응(소송)으로 맞서고 있으며, 10월 13일 국정감사에서 위원장

@@ -452,6 +452,39 @@
   "body": "# 정식품 대리점 물량 밀어내기 의혹 사건\n\n## 해설\n\n## 메모"
  },
  {
+  "id": "2026-lg-electronics-tech-misappropriation",
+  "title": "LG전자 협력사 기술유용 의혹 사건",
+  "topics": [
+   "subcontract"
+  ],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "orgs": [
+   "lg-electronics"
+  ],
+  "groups": [
+   "lg"
+  ],
+  "stage": "probe",
+  "office": "본부",
+  "unit": null,
+  "statutes": [],
+  "case_no": null,
+  "decision_no": null,
+  "fine_krw": null,
+  "sanctions": [],
+  "agenda": [
+   "2026-10-tech-theft-monitor"
+  ],
+  "related": [],
+  "summary": "공정위가 LG전자 창원사업장에 대해 협력사 기술유용 신고와 관련해 현장조사에 나섰다고 보도됨(2026년 11월 4일 언론 보도).",
+  "next_expected": null,
+  "created": "2026-11-04",
+  "updated": "2026-11-04",
+  "body": "# LG전자 협력사 기술유용 의혹 사건\n\n## 해설\n\n## 메모"
+ },
+ {
   "id": "2026-naver-dunamu-merger",
   "title": "네이버-두나무 기업결합 심사",
   "topics": [
