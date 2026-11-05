@@ -9,6 +9,7 @@
 - [분야별](https://sunlee82.github.io/ftc-watch/topics.html)
 
 ## 사건
+- [네이버-두나무 기업결합 심사](https://sunlee82.github.io/ftc-watch/cases/2026-naver-dunamu-merger.html): 네이버와 두나무(업비트 운영사)의 기업결합에 대해 공정위가 심사 중이며, 고난도 심사로 연내 심의를 목표로 속도를 내고 있다고 2026년 9월 보도됨. 업무보고(2026.10)에서 디지털 기업결합 심층 심사 대상으로
 - [LG전자 협력사 기술유용 의혹 사건](https://sunlee82.github.io/ftc-watch/cases/2026-lg-electronics-tech-misappropriation.html): 공정위가 LG전자 창원사업장에 대해 협력사 기술유용 신고와 관련해 현장조사에 나섰다고 보도됨(2026년 11월 4일 언론 보도).
 - [브로드컴 삼성전자 대상 장기구매계약 강요 거래상지위남용 사건](https://sunlee82.github.io/ftc-watch/cases/2020-broadcom-samsung-abuse.html): 공정위가 2023년 10월 6일 브로드컴인코포레이티드 등 4개사가 삼성전자에 장기구매계약(LTA) 체결을 강요한 행위를 거래상지위남용으로 보아 과징금 186억 6,400만원을 부과함(의결2023-153, 사건번호 2
 - [계룡건설·코오롱글로벌 등 6개 건설사 공공공사 입찰담합 의혹 사건](https://sunlee82.github.io/ftc-watch/cases/2026-public-construction-bid-cartel.html): 공정위가 2026년 10월 28일 케이알산업·진흥기업·계룡건설·금호건설·코오롱글로벌·이수건설 6개 건설사의 공공공사 입찰담합 의혹과 관련해 현장조사를 실시했다고 보도됨. LH 발주 공사 등 종합심사낙찰제 적용 공공공
@@ -24,7 +25,6 @@
 - [유니시티코리아 후원수당 지급한도 우회 의혹 동의의결 사건](https://sunlee82.github.io/ftc-watch/cases/2026-unicity-korea-consent-decree.html): 공정위가 유니시티코리아의 방문판매법상 후원수당 지급한도(매출액의 35%) 우회 혐의에 대해 동의의결 절차를 개시하기로 결정함(공정위 2026년 10월 21일 보도참고자료). 최상위판매원을 미국 본사 소속으로 변경해 
 - [우진산전 철도차량 입찰담합 사건](https://sunlee82.github.io/ftc-watch/cases/2026-woojin-industrial-bid-cartel.html): 공정위가 철도차량 제조업체 우진산전의 입찰 담합 혐의와 관련해 현장조사를 실시했다고 2026년 10월 21~22일 보도됨. 구체적인 담합 대상 입찰과 참여 업체는 보도에서 확인되지 않음.
 - [GIS 구매 입찰담합 과징금 391억원 취소소송](https://sunlee82.github.io/ftc-watch/cases/2026-gis-bid-cartel-litigation.html): 가스절연개폐장치(GIS) 구매 입찰담합으로 전력기기 업체들에 부과된 391억원대 과징금에 대해 업체들이 제기한 취소소송에서 법원이 잇달아 공정위 손을 들어주고 있다고 2026년 10월 20일 보도됨.
-- [네이버-두나무 기업결합 심사](https://sunlee82.github.io/ftc-watch/cases/2026-naver-dunamu-merger.html): 네이버와 두나무(업비트 운영사)의 기업결합에 대해 공정위가 심사 중이며, 고난도 심사로 연내 심의를 목표로 속도를 내고 있다고 2026년 9월 보도됨. 업무보고(2026.10)에서 디지털 기업결합 심층 심사 대상으로
 - [BYC 내의 발열·항균 성능 거짓·과장광고 사건](https://sunlee82.github.io/ftc-watch/cases/2026-byc-heating-antibacterial-ad.html): BYC가 일부 내의 제품의 발열·항균 성능을 객관적인 근거 없이 거짓·과장 광고해 공정위로부터 시정명령을 받았다고 보도됨(구미뉴스 2026년 10월 보도). 해당 매체가 공정위 의결서를 확보해 확인했다고 전함. 과징
 - [밀가루 부산물(밀기울) 6개사 가격담합 사건](https://sunlee82.github.io/ftc-watch/cases/2026-flour-byproduct-cartel.html): 공정위 사무처가 대한제분·사조동아원·사조대림·삼양사·CJ제일제당·한탑 등 밀가루 부산물 제조판매 6개사의 가격담합(2017년 4월~2025년 10월, 약 8년 6개월) 혐의로 2026년 10월 13일 심사보고서를 송
 - [삼성전자 등 삼성웰스토리 급식 일감몰아주기(부당지원) 사건](https://sunlee82.github.io/ftc-watch/cases/2021-samsung-welstory-support.html): 공정위가 2021년 삼성전자 등 4개사의 삼성웰스토리 급식 일감몰아주기(부당지원)에 과징금 약 2,349억원을 부과한 사건. 행정소송이 진행 중이며 2026년 10월 14일 대법원으로 가게 됐다고 보도됨.

@@ -590,5 +590,21 @@
   "created": "2026-11-04",
   "updated": "2026-11-04",
   "body": "공정위가 LG전자 창원사업장에 대해 협력사 기술유용 신고와 관련해 현장조사를 실시했다고 보도됨."
+ },
+ {
+  "id": "2026-11-05-2026-naver-dunamu-merger-1",
+  "case": "2026-naver-dunamu-merger",
+  "date": "2026-11-05",
+  "stage": "hearing",
+  "grade": "press",
+  "headline": "네이버·두나무 기업결합 심의 전원회의 18일 개최 예정",
+  "new_facts": "공정위가 네이버와 두나무의 기업결합을 심의하는 전원회의를 11월 18일 연다고 뉴시스가 보도함. 기업결합 신고는 지난해 11월 말 접수되었고, 이르면 이달 중 결론이 날 수 있다고 보도됨.",
+  "source_url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261104_0003854974",
+  "source_file": null,
+  "alert": true,
+  "visibility": "private",
+  "created": "2026-11-05",
+  "updated": "2026-11-05",
+  "body": "공정위가 네이버와 두나무의 기업결합을 심의하는 전원회의를 11월 18일 연다고 뉴시스가 보도함. 기업결합 신고는 지난해 11월 말 접수되었고, 이르면 이달 중 결론이 날 수 있다고 보도됨."
  }
 ]
