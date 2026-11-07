@@ -3,12 +3,13 @@
 > 공정거래위원회 사건·정책 추적. 공정위 공개 자료와 언론 보도를 사건 단위로 구조화. 각 사건 페이지 첫 문단이 핵심 사실 요약이며 출처 등급(공정위 공식/법원/정부·국회/언론 보도)을 구분해 표시.
 
 ## 핵심 페이지
-- [사건 목록](https://sunlee82.github.io/ftc-watch/): 25건
+- [사건 목록](https://sunlee82.github.io/ftc-watch/): 26건
 - [말한 것 vs 한 것](https://sunlee82.github.io/ftc-watch/agenda.html): 업무계획 과제 18건의 집행 현황
 - [기업집단별](https://sunlee82.github.io/ftc-watch/groups.html)
 - [분야별](https://sunlee82.github.io/ftc-watch/topics.html)
 
 ## 사건
+- [코오롱테크비전·이알텍 터널 록볼트 절감 수치 거짓광고 사건](https://sunlee82.github.io/ftc-watch/cases/2026-kolon-techvision-rockbolt-ad.html): 공정위가 코오롱테크비전의 터널 록볼트 광고 중 탄소 28.2% 저감, 강재 24.5%·건설재료 32.4% 절감 문구가 근거 없다고 판단해 경고했다고 보도됨. 이알텍도 함께 경고받았으며 과징금 없이 사건이 종결됐다고 
 - [네이버-두나무 기업결합 심사](https://sunlee82.github.io/ftc-watch/cases/2026-naver-dunamu-merger.html): 네이버와 두나무(업비트 운영사)의 기업결합에 대해 공정위가 심사 중이며, 고난도 심사로 연내 심의를 목표로 속도를 내고 있다고 2026년 9월 보도됨. 업무보고(2026.10)에서 디지털 기업결합 심층 심사 대상으로
 - [LG전자 협력사 기술유용 의혹 사건](https://sunlee82.github.io/ftc-watch/cases/2026-lg-electronics-tech-misappropriation.html): 공정위가 LG전자 창원사업장에 대해 협력사 기술유용 신고와 관련해 현장조사에 나섰다고 보도됨(2026년 11월 4일 언론 보도).
 - [브로드컴 삼성전자 대상 장기구매계약 강요 거래상지위남용 사건](https://sunlee82.github.io/ftc-watch/cases/2020-broadcom-samsung-abuse.html): 공정위가 2023년 10월 6일 브로드컴인코포레이티드 등 4개사가 삼성전자에 장기구매계약(LTA) 체결을 강요한 행위를 거래상지위남용으로 보아 과징금 186억 6,400만원을 부과함(의결2023-153, 사건번호 2

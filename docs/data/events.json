@@ -606,5 +606,21 @@
   "created": "2026-11-05",
   "updated": "2026-11-05",
   "body": "공정위가 네이버와 두나무의 기업결합을 심의하는 전원회의를 11월 18일 연다고 뉴시스가 보도함. 기업결합 신고는 지난해 11월 말 접수되었고, 이르면 이달 중 결론이 날 수 있다고 보도됨."
+ },
+ {
+  "id": "2026-11-07-2026-kolon-techvision-rockbolt-ad-1",
+  "case": "2026-kolon-techvision-rockbolt-ad",
+  "date": "2026-11-07",
+  "stage": "closed",
+  "grade": "press",
+  "headline": "공정위, 코오롱테크비전·이알텍에 록볼트 절감 수치 거짓광고 경고(과징금 없이 종결)",
+  "new_facts": "탄소 28.2% 저감 문구를 거짓 광고로 판단하고 강재 24.5%·건설재료 32.4% 절감도 근거 없다고 보아 경고 조치, 과징금 없음이라고 보도됨.",
+  "source_url": "https://www.google.com/goto?url=CAESeQHEIkXXp3IDlIxks46aD8SpkJj75CDHfppvImlgUB6gbHi8l1s9VNgMhHgGX4CXVEYB4yBGXD78ltPH-QzK66lzHmXgSGnQOryFQ22H87GzhofcBrDgG2OXyoRF3ot-QnWv1H6wYe1dC5ItjbB7XcIxzoZPBTxLS2I",
+  "source_file": null,
+  "alert": false,
+  "visibility": "private",
+  "created": "2026-11-07",
+  "updated": "2026-11-07",
+  "body": "탄소 28.2% 저감 문구를 거짓 광고로 판단하고 강재 24.5%·건설재료 32.4% 절감도 근거 없다고 보아 경고 조치, 과징금 없음이라고 보도됨."
  }
 ]
