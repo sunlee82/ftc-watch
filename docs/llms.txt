@@ -9,10 +9,10 @@
 - [분야별](https://sunlee82.github.io/ftc-watch/topics.html)
 
 ## 사건
+- [15개 국고채전문딜러 국고채 입찰담합·정보교환 사건](https://sunlee82.github.io/ftc-watch/cases/2026-treasury-pd-bid-cartel.html): 공정위가 2020년 1월~2023년 6월 국고채 입찰에서 투찰금리·물량을 합의하거나 정보를 교환한 15개 국고채전문딜러(증권 10·은행 5)에 시정명령과 과징금 총 1조 6,265억 7,500만 원을 부과하고 7개사
 - [우아한형제들·쿠팡 배달앱 최혜대우 요구 등 시장지배적지위 남용 사건](https://sunlee82.github.io/ftc-watch/cases/2026-baemin-coupang-mfn-abuse.html): 공정위가 우아한형제들(배달의민족)과 쿠팡(쿠팡이츠)의 최혜대우(MFN) 요구, 배민의 자체배달 전환 강제·배달예상시간 기만광고에 대해 시정명령과 과징금(배민 3,311억 원, 쿠팡 3,008억 원, 잠정)을 부과하기
 - [쿠팡 쿠팡이츠 무료배달·와우멤버십 끼워팔기 사건](https://sunlee82.github.io/ftc-watch/cases/2026-coupang-eats-wow-tying.html): 쿠팡이츠 무료배달을 와우 멤버십에 묶어 판 끼워팔기 혐의 사건이 공정위 위원회 심의 단계에 들어갔고 결론이 임박했다고 2026년 10월 28일 보도됨.
 - [네이버-두나무 기업결합 심사](https://sunlee82.github.io/ftc-watch/cases/2026-naver-dunamu-merger.html): 네이버와 두나무(업비트 운영사)의 기업결합에 대해 공정위가 심사 중이며, 고난도 심사로 연내 심의를 목표로 속도를 내고 있다고 2026년 9월 보도됨. 업무보고(2026.10)에서 디지털 기업결합 심층 심사 대상으로
-- [15개 국고채전문딜러 국고채 입찰담합·정보교환 사건](https://sunlee82.github.io/ftc-watch/cases/2026-treasury-pd-bid-cartel.html): 공정위가 2020년 1월~2023년 6월 국고채 입찰에서 투찰금리·물량을 합의하거나 정보를 교환한 15개 국고채전문딜러(증권 10·은행 5)에 시정명령과 과징금 총 1조 6,265억 7,500만 원을 부과하고 7개사
 - [코오롱테크비전·이알텍 터널 록볼트 절감 수치 거짓광고 사건](https://sunlee82.github.io/ftc-watch/cases/2026-kolon-techvision-rockbolt-ad.html): 공정위가 코오롱테크비전의 터널 록볼트 광고 중 탄소 28.2% 저감, 강재 24.5%·건설재료 32.4% 절감 문구가 근거 없다고 판단해 경고했다고 보도됨. 이알텍도 함께 경고받았으며 과징금 없이 사건이 종결됐다고 
 - [LG전자 협력사 기술유용 의혹 사건](https://sunlee82.github.io/ftc-watch/cases/2026-lg-electronics-tech-misappropriation.html): 공정위가 LG전자 창원사업장에 대해 협력사 기술유용 신고와 관련해 현장조사에 나섰다고 보도됨(2026년 11월 4일 언론 보도).
 - [브로드컴 삼성전자 대상 장기구매계약 강요 거래상지위남용 사건](https://sunlee82.github.io/ftc-watch/cases/2020-broadcom-samsung-abuse.html): 공정위가 2023년 10월 6일 브로드컴인코포레이티드 등 4개사가 삼성전자에 장기구매계약(LTA) 체결을 강요한 행위를 거래상지위남용으로 보아 과징금 186억 6,400만원을 부과함(의결2023-153, 사건번호 2
