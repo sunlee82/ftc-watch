@@ -235,6 +235,41 @@
   "body": "# CJ프레시웨이 식자재 입찰담합 사건\n\n## 해설\n\n## 메모"
  },
  {
+  "id": "2026-cj-freshway-customer-inducement",
+  "title": "CJ프레시웨이 복지시설 부당 고객유인행위 사건",
+  "topics": [
+   "abuse"
+  ],
+  "visibility": "public",
+  "sources": [],
+  "tags": [],
+  "orgs": [
+   "cj-freshway"
+  ],
+  "groups": [
+   "cj"
+  ],
+  "stage": "hearing",
+  "office": "본부",
+  "unit": "시장감시국 제조업감시과",
+  "statutes": [
+   "공정거래법 제45조 제1항 제4호"
+  ],
+  "case_no": null,
+  "decision_no": null,
+  "fine_krw": null,
+  "sanctions": [],
+  "agenda": [
+   "2026-10-welfare-food-rebate"
+  ],
+  "related": [],
+  "summary": "공정위 사무처는 CJ프레시웨이가 2018년부터 복지시설에 식자재를 납품하기 위해 기부금을 제공하고 시설 임직원에게 상품권을 제공했다며 심사보고서를 위원회에 제출해 심의 절차가 개시됨(공정위 2026년 11월 25일 보도자료). 심사관은 관련매출액을 약 4,990억 원으로 보고 시정조치와 과징금 부과 의견을 제시함. 최종 판단은 위원회 심의를 거쳐 확정됨.",
+  "next_expected": null,
+  "created": "2026-11-26",
+  "updated": "2026-11-26",
+  "body": "# CJ프레시웨이 복지시설 부당 고객유인행위 사건\n\n## 해설\n\n## 메모"
+ },
+ {
   "id": "2026-coupang-eats-wow-tying",
   "title": "쿠팡 쿠팡이츠 무료배달·와우멤버십 끼워팔기 사건",
   "topics": [
