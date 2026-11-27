@@ -97,6 +97,41 @@
   "body": "# JW중외제약 의약품 리베이트(부당고객유인) 사건\n\n## 해설\n\n## 메모"
  },
  {
+  "id": "2026-apple-intelligence-advertising",
+  "title": "애플 아이폰16 애플 인텔리전스 기만광고 사건",
+  "topics": [
+   "advertising"
+  ],
+  "visibility": "public",
+  "sources": [
+   "공정위 2026년 11월 26일 보도자료"
+  ],
+  "tags": [],
+  "orgs": [
+   "apple"
+  ],
+  "groups": [],
+  "stage": "hearing",
+  "office": "본부",
+  "unit": "시장감시국 표시광고감시과",
+  "statutes": [
+   "표시광고법 제3조 제1항 제2호"
+  ],
+  "case_no": null,
+  "decision_no": null,
+  "fine_krw": null,
+  "sanctions": [],
+  "agenda": [
+   "2026-10-smartphone-ai-ad"
+  ],
+  "related": [],
+  "summary": "공정위 사무처가 애플 인코퍼레이티드와 애플코리아에 대한 표시광고법 위반 혐의 심사보고서를 2026년 11월 24일 위원회에 제출하고 피심인들에게 송부함(공정위 2026년 11월 26일 보도자료). 심사관은 아이폰16 광고에서 애플 인텔리전스 9개 기능 중 4개가 광고대로 제공되지 않았다고 보고 기만적 표시·광고로 판단했으며, 관련 매출액을 약 3조 3,527억 원으로 산정하고 시정명령 및 과징금 부과 의견을 제시함.",
+  "next_expected": null,
+  "created": "2026-11-27",
+  "updated": "2026-11-27",
+  "body": "# 애플 아이폰16 애플 인텔리전스 기만광고 사건\n\n## 해설\n\n## 메모"
+ },
+ {
   "id": "2026-baemin-coupang-mfn-abuse",
   "title": "우아한형제들·쿠팡 배달앱 최혜대우 요구 등 시장지배적지위 남용 사건",
   "topics": [
@@ -285,7 +320,7 @@
   "groups": [
    "coupang"
   ],
-  "stage": "hearing",
+  "stage": "decision",
   "office": "본부",
   "unit": null,
   "statutes": [],
@@ -300,7 +335,7 @@
   "summary": "쿠팡이츠 무료배달을 와우 멤버십에 묶어 판 끼워팔기 혐의 사건이 공정위 위원회 심의 단계에 들어갔고 결론이 임박했다고 2026년 10월 28일 보도됨.",
   "next_expected": null,
   "created": "2026-10-29",
-  "updated": "2026-11-12",
+  "updated": "2026-11-27",
   "body": "# 쿠팡 쿠팡이츠 무료배달·와우멤버십 끼워팔기 사건\n\n## 해설\n\n## 메모"
  },
  {
