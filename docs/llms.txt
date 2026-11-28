@@ -9,13 +9,13 @@
 - [분야별](https://sunlee82.github.io/ftc-watch/topics.html)
 
 ## 사건
+- [15개 국고채전문딜러 국고채 입찰담합·정보교환 사건](https://sunlee82.github.io/ftc-watch/cases/2026-treasury-pd-bid-cartel.html): 공정위가 2020년 1월~2023년 6월 국고채 입찰에서 투찰금리·물량을 합의하거나 정보를 교환한 15개 국고채전문딜러(증권 10·은행 5)에 시정명령과 과징금 총 1조 6,265억 7,500만 원을 부과하고 7개사
 - [애플 아이폰16 애플 인텔리전스 기만광고 사건](https://sunlee82.github.io/ftc-watch/cases/2026-apple-intelligence-advertising.html): 공정위 사무처가 애플 인코퍼레이티드와 애플코리아에 대한 표시광고법 위반 혐의 심사보고서를 2026년 11월 24일 위원회에 제출하고 피심인들에게 송부함(공정위 2026년 11월 26일 보도자료). 심사관은 아이폰16
 - [쿠팡 쿠팡이츠 무료배달·와우멤버십 끼워팔기 사건](https://sunlee82.github.io/ftc-watch/cases/2026-coupang-eats-wow-tying.html): 쿠팡이츠 무료배달을 와우 멤버십에 묶어 판 끼워팔기 혐의 사건이 공정위 위원회 심의 단계에 들어갔고 결론이 임박했다고 2026년 10월 28일 보도됨.
 - [CJ프레시웨이 복지시설 부당 고객유인행위 사건](https://sunlee82.github.io/ftc-watch/cases/2026-cj-freshway-customer-inducement.html): 공정위 사무처는 CJ프레시웨이가 2018년부터 복지시설에 식자재를 납품하기 위해 기부금을 제공하고 시설 임직원에게 상품권을 제공했다며 심사보고서를 위원회에 제출해 심의 절차가 개시됨(공정위 2026년 11월 25일 
 - [쿠팡 조사방해(현장조사 거부) 사건](https://sunlee82.github.io/ftc-watch/cases/2026-coupang-obstruction.html): 공정위 사무처가 쿠팡의 현장조사 방해를 이유로 과태료 부과 심사보고서를 송부했다고 2026년 10월 1일 보도됨. 쿠팡은 공정위 현장조사에 대해 법적 대응(소송)으로 맞서고 있으며, 10월 13일 국정감사에서 위원장
 - [카카오모빌리티·티맵모빌리티 등 대리운전 플랫폼 단체보험 강요 동의의결 사건](https://sunlee82.github.io/ftc-watch/cases/2026-daeri-platform-insurance-consent.html): 공정위는 2026년 11월 9일 카카오모빌리티·티맵모빌리티·씨엠엔피·와이엘피가 신청한 동의의결의 절차를 개시하기로 결정함(공정위 2026년 11월 16일 보도자료). 대리기사의 개인보험 가입에도 단체보험 가입을 강요
 - [네이버-두나무 기업결합 심사](https://sunlee82.github.io/ftc-watch/cases/2026-naver-dunamu-merger.html): 네이버와 두나무(업비트 운영사)의 기업결합에 대해 공정위가 심사 중이며, 고난도 심사로 연내 심의를 목표로 속도를 내고 있다고 2026년 9월 보도됨. 업무보고(2026.10)에서 디지털 기업결합 심층 심사 대상으로
-- [15개 국고채전문딜러 국고채 입찰담합·정보교환 사건](https://sunlee82.github.io/ftc-watch/cases/2026-treasury-pd-bid-cartel.html): 공정위가 2020년 1월~2023년 6월 국고채 입찰에서 투찰금리·물량을 합의하거나 정보를 교환한 15개 국고채전문딜러(증권 10·은행 5)에 시정명령과 과징금 총 1조 6,265억 7,500만 원을 부과하고 7개사
 - [우아한형제들·쿠팡 배달앱 최혜대우 요구 등 시장지배적지위 남용 사건](https://sunlee82.github.io/ftc-watch/cases/2026-baemin-coupang-mfn-abuse.html): 공정위가 우아한형제들(배달의민족)과 쿠팡(쿠팡이츠)의 최혜대우(MFN) 요구, 배민의 자체배달 전환 강제·배달예상시간 기만광고에 대해 시정명령과 과징금(배민 3,311억 원, 쿠팡 3,008억 원, 잠정)을 부과하기
 - [코오롱테크비전·이알텍 터널 록볼트 절감 수치 거짓광고 사건](https://sunlee82.github.io/ftc-watch/cases/2026-kolon-techvision-rockbolt-ad.html): 공정위가 코오롱테크비전의 터널 록볼트 광고 중 탄소 28.2% 저감, 강재 24.5%·건설재료 32.4% 절감 문구가 근거 없다고 판단해 경고했다고 보도됨. 이알텍도 함께 경고받았으며 과징금 없이 사건이 종결됐다고 
 - [LG전자 협력사 기술유용 의혹 사건](https://sunlee82.github.io/ftc-watch/cases/2026-lg-electronics-tech-misappropriation.html): 공정위가 LG전자 창원사업장에 대해 협력사 기술유용 신고와 관련해 현장조사에 나섰다고 보도됨(2026년 11월 4일 언론 보도).
